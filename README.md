@@ -1,1 +1,1 @@
-# coheision_coupling
+# 凝集度と結合度
