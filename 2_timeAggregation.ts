@@ -1,3 +1,6 @@
+/**
+ * 時間的凝集な関数
+ */
 function timeAggregation(
   config: () => void,
   db: () => void,

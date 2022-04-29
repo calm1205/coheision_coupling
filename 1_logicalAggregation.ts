@@ -1,3 +1,6 @@
+/**
+ * 論理的凝集な関数
+ */
 function logicalAggregation(flag: boolean) {
   // 論理的に似ている複数の処理が関数にまとまっている
   // フラグで実施する処理を分岐する
